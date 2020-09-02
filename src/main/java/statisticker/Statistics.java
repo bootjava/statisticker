@@ -9,11 +9,7 @@ public class Statistics
         public float max;
         public float min;
     };
-    public static Stats getStatistics(List<Float> numbers) {
-        Stats s = new Stats();
-        s.average = 4.525f;
-        s.max = 8.9f;
-        s.min = 1.5f;
-        return s;
+    public static Stats getStatistics(List<___> numbers) {
+        //implement the computation of statistics here
     }
 }

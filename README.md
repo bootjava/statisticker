@@ -1,4 +1,4 @@
-# statisticker
+# Statistics Computer
 
 This project uses Maven and JUnit to build and test.
 
